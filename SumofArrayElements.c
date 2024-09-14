@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
+
 int main() {
-    long T; scanf("%ld",&T);
+    long T; 
+	scanf("%ld",&T);
     while(T--){
         long N;
         scanf("%ld",&N);

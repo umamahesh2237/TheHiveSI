@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 int main() {
     long T; scanf("%ld",&T);
     while(T--){
